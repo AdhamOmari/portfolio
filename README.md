@@ -226,3 +226,16 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+# the URL to your live
+[the URL live](https://class-05-portfolio.netlify.app/)
+
+Number and name of feature: class 05 
+
+Estimate of time needed to complete: 1
+
+Start time: 2 pm 
+
+Finish time: _____
+
+Actual time needed to complete: _____
