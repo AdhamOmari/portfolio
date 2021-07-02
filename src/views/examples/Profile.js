@@ -22,7 +22,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
-import SimpleFooter from "components/Footers/SimpleFooter.js";
+// import SimpleFooter from "components/Footers/SimpleFooter.js";
 import profile from "assets/img/theme/mypic.jpg";
 
 class Profile extends React.Component {
@@ -147,9 +147,10 @@ class Profile extends React.Component {
                           projects. Passionate and hardworking with penchant for meeting deadlines. Interested in role
                           with company promoting best practices and offering diverse customer projects.
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
-                          Show more
-                        </a>
+                        <span>
+                          My Background
+                          bachelor's degree in computer science
+                        </span>
                       </Col>
                     </Row>
                   </div>
@@ -158,7 +159,7 @@ class Profile extends React.Component {
             </Container>
           </section>
         </main>
-        <SimpleFooter />
+     
       </>
     );
   }
